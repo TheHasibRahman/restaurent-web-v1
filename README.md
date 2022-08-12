@@ -2,7 +2,7 @@
 
 # Shaif's Cuisine 👨‍🍳
 
-**Live preview: [click me](http://shaif-s-cuisine.netlify.app)**
+**Live preview: [click me](https://shaif-cuisine.netlify.app/)**
 
 ---
 
